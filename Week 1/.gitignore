@@ -1,4 +1,0 @@
-#excluding password.txt
-
-*.txt
-!joke.txt
