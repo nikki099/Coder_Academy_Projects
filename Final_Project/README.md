@@ -62,9 +62,9 @@ This project collected 4 sets of data for analysis purpose:<br>
  * The collected data includes fields such as the property address, property size, sold prices, sold date, bedroom, bathroom and car park number and etc..
  * How to access: this data is stored the following csv files (one file for each suburb), in the [Google Drive “Data” folder](https://drive.google.com/drive/folders/12qFycpdnDk8_SrNtqTyAVV8o0O0o-wPf?usp=sharing).
 
-        [realestate.com.au_SOLD_Algester.csv](https://docs.google.com/spreadsheets/d/1TPHdKGY-VXani8OVQuFE-68Gg6mc06Hc_gTsltQXpjw/edit?usp=sharing)<br>
-        [realestate.com.au_SOLD_Calamvale.csv](https://docs.google.com/spreadsheets/d/1KRQfJ4rNB-3YFZOW1glmdcAWQ0d7PBmtGiZGp1lA_RY/edit?usp=sharing)<br>
-        …
+    [realestate.com.au_SOLD_Algester.csv](https://docs.google.com/spreadsheets/d/1TPHdKGY-VXani8OVQuFE-68Gg6mc06Hc_gTsltQXpjw/edit?usp=sharing)<br>
+    [realestate.com.au_SOLD_Calamvale.csv](https://docs.google.com/spreadsheets/d/1KRQfJ4rNB-3YFZOW1glmdcAWQ0d7PBmtGiZGp1lA_RY/edit?usp=sharing)<br>
+    …
 
 ## Recommendation
 
