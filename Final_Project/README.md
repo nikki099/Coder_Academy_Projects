@@ -1,6 +1,5 @@
 
 # Table of Contents
-______________________________________________________________________________________________________________
 
 * [Project Title](#Project-Title)
 * [Project Synopsis](#Project-Synopsis)
@@ -51,7 +50,7 @@ This project collected 4 sets of data for analysis purpose:<br>
  * How to access: this data is stored in the Excel file "[domain_market_trend.xlsx](https://docs.google.com/spreadsheets/d/1Bp3Ufrkx_YNkrzFG0Fo8glmVHHkjc6rOXsNbw13BJds/edit?usp=sharing)" in the [Google Drive “Data” folder](https://drive.google.com/drive/folders/12qFycpdnDk8_SrNtqTyAVV8o0O0o-wPf?usp=sharing).
 
 
-3.	Website Traffic and Overall Domain Rating Data<br>
+3.	Website Traffic and Overall Domain Rating Data
  * Web traffic data (REA vs Domain) collected from [SEMRUSH](https://www.semrush.com/)
  * Overall Domain Rating (REA vs Domain) collected from [Canstar](https://www.canstarblue.com.au/stores-services/real-estate-vs-domain/)
  * Through comparing the summary house median prices, web traffic and overall domain rating data between these 2 sites, the project finally chose REA as the source to explore the detailed sold house listing information for project analysis. 
@@ -62,12 +61,10 @@ This project collected 4 sets of data for analysis purpose:<br>
  * Sold house data scraped from the [Sold section on realestate.com.au](https://www.realestate.com.au/sold/) from 10 SE Brisbane Suburbs.
  * The collected data includes fields such as the property address, property size, sold prices, sold date, bedroom, bathroom and car park number and etc..
  * How to access: this data is stored the following csv files (one file for each suburb), in the [Google Drive “Data” folder](https://drive.google.com/drive/folders/12qFycpdnDk8_SrNtqTyAVV8o0O0o-wPf?usp=sharing).
-:<br>
 
-         *[realestate.com.au_SOLD_Algester.csv](https://docs.google.com/spreadsheets/d/1TPHdKGY-VXani8OVQuFE-68Gg6mc06Hc_gTsltQXpjw/edit?usp=sharing)*<br>
-         *[realestate.com.au_SOLD_Calamvale.csv](https://docs.google.com/spreadsheets/d/1KRQfJ4rNB-3YFZOW1glmdcAWQ0d7PBmtGiZGp1lA_RY/edit?usp=sharing)*<br>
-         *…*<br>
-         *[realestate.com.au_SOLD_Wishart.csv](https://docs.google.com/spreadsheets/d/1mbTzczhl0dZ9_6XDZ8KXy4O219DF9tDMFNwb0Pn-snk/edit?usp=sharing)*<br>
+        [realestate.com.au_SOLD_Algester.csv](https://docs.google.com/spreadsheets/d/1TPHdKGY-VXani8OVQuFE-68Gg6mc06Hc_gTsltQXpjw/edit?usp=sharing)<br>
+        [realestate.com.au_SOLD_Calamvale.csv](https://docs.google.com/spreadsheets/d/1KRQfJ4rNB-3YFZOW1glmdcAWQ0d7PBmtGiZGp1lA_RY/edit?usp=sharing)<br>
+        …
 
 ## Recommendation
 
@@ -76,4 +73,6 @@ Through analyzing the number of sold houses and the median prices of 3 and 4 bed
 **Note**: The recommendation shown above is only based on 
 a preliminary inference by observing the trend with limited sets of data, and will need to examine further factors (such as the number of houses on sale, the average days on the market, the council development plan, investment policies etc.) to make a proper conclusion.
    
+
+
 
